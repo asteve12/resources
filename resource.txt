@@ -1,0 +1,3 @@
+https://github.com/ahmet/awesome-web3
+https://www.cryptoexchangescript.com/crypto-wallet-development
+https://hackernoon.com/stablecoins-designing-a-price-stable-cryptocurrency-6bf24e2689e5
