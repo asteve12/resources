@@ -8,3 +8,5 @@ https://docs.cloud.coinbase.com/wallet-sdk/docs/web3-react
 https://unstoppabledomains.com/blog/the-web3-glossar
 https://yourstory.com/the-decrypting-story/top-web3-podcasts-developers-should-bookmark-today/amp
 https://climbtheladder.com/smart-contract-interview-questions/
+https://programtheblockchain.com/
+https://scoutapm.com/blog/express-error-handling
