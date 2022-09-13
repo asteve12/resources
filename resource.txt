@@ -10,3 +10,4 @@ https://yourstory.com/the-decrypting-story/top-web3-podcasts-developers-should-b
 https://climbtheladder.com/smart-contract-interview-questions/
 https://programtheblockchain.com/
 https://scoutapm.com/blog/express-error-handling
+https://careerfoundry.com/en/blog/web-development/engineer-vs-developer/
