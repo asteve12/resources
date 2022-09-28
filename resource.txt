@@ -11,4 +11,13 @@ https://climbtheladder.com/smart-contract-interview-questions/
 https://programtheblockchain.com/
 https://scoutapm.com/blog/express-error-handling
 https://careerfoundry.com/en/blog/web-development/engineer-vs-developer/
-https://www.bezkoder.com/mongoose-one-to-many-relationship/
+https://www.bezkoder.com/mongoose-one-to-many-relationship/actions which are performed with the "outside world."
+//07037567900
+resources
+https://medium.com/loom-network/how-to-secure-your-smart-contracts-6-solidity-vulnerabilities-and-how-to-avoid-them-part-1-c33048d4d17d
+https://consensys.github.io/smart-contract-best-practices/development-recommendations/token-specific/standardization/
+https://stermi.medium.com/the-ethernaut-challenge-9-solution-re-entrancy-635303881a4f
+https://cryptomarketpool.com/block-timestamp-manipulation-attack/
+
+Evm tutorials
+https://medium.com/@hayeah/diving-into-the-ethereum-vm-the-hidden-costs-of-arrays-28e119f04a9b
