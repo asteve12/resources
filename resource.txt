@@ -21,3 +21,9 @@ https://cryptomarketpool.com/block-timestamp-manipulation-attack/
 
 Evm tutorials
 https://medium.com/@hayeah/diving-into-the-ethereum-vm-the-hidden-costs-of-arrays-28e119f04a9b
+
+Nft Architecture
+https://dev.accubits.com/reverse-engineering-openseas-to-build-an-nft-market-place/
+
+ERC 165 articles
+https://medium.com/@chiqing/ethereum-standard-erc165-explained-63b54ca0d273
